@@ -7,7 +7,7 @@ body {
   background-size: 400% 400%;
 }
 
-a {
+.navigation {
   padding: 10px;
   background: rgb(214, 140, 206);
   border-radius: 4px;
@@ -15,7 +15,7 @@ a {
   text-decoration: none;
   box-shadow: 2px 2px 2px rgb(76, 76, 76);
 }
-a:hover {
+.navigation:hover {
   cursor: pointer;
   text-decoration: underline;
   color: white;
@@ -23,4 +23,9 @@ a:hover {
 img {
   display: block;
   margin: 0 auto;
+}
+.contact {
+  font-size: 20px;
+  text-align: center;
+  margin: 20px;
 }
