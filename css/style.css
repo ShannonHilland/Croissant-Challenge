@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+  margin: 20px;
+}
+body {
+  background: linear-gradient(90deg, #4ce0ac, #c652e0);
+  background-size: 400% 400%;
+}
+
+a {
+  padding: 10px;
+  background: rgb(214, 140, 206);
+  border-radius: 4px;
+  color: white;
+  text-decoration: none;
+  box-shadow: 2px 2px 2px rgb(76, 76, 76);
+}
+a:hover {
+  cursor: pointer;
+  text-decoration: underline;
+  color: white;
+}
